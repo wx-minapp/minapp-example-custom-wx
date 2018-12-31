@@ -1,1 +1,1 @@
-export {wxp} from '../../../types/wxp'
+export {wxp} from '../../types/wxp'
